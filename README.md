@@ -1,5 +1,4 @@
 # Diabetes-Prediction
-![image](https://github.com/stevengash/Diabetes-Prediction/assets/99188129/d599c940-4128-4bee-8d9d-5aa4a3ca5176)
  Diabetes Prediction with Logistic Regression
 This ReadMe summarizes the key steps involved in a diabetes prediction project using R and logistic regression:
 1.	Data Loading and Exploration: The project begins by loading the dataset, exploring its structure, and gaining an initial understanding of its content.
